@@ -80,4 +80,10 @@ Além disso, pode-se utilizar probabilidades para avaliar o nível de risco de c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/FernandoDevelo/regressao-logistica.git
+
+2. instale as dependencias
+pip install -r requirements.txt
+
+3. execute o notebook
+jupyter notebook
